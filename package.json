@@ -6,6 +6,16 @@
   "engines": {
     "vscode": "^1.75.0"
   },
+  "icon": "icons/icon.png",
+  "author": {
+    "name": "jvc",
+    "email": "jarrikvancamp@outlook.com",
+    "url": ""
+  },
+  "repository": {
+    "url": "https://github.com/jarrikvancamp/dark--.git",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
